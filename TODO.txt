@@ -1,0 +1,11 @@
+Home page
+Resume page
+Contact information
+
+
+Cookie
+GPS
+Dockerize
+count visitor
+Connect to SQL
+    
